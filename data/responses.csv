@@ -1,0 +1,41 @@
+id,person_id,timestamp,prompt,response,mood
+1,abhi,2026-02-21,Why do people procrastinate?,People procrastinate because they fear failure and avoid discomfort.,neutral
+2,abhi,2026-02-22,Explain inflation simply,Inflation means prices increase over time reducing purchasing power.,focused
+3,abhi,2026-02-23,Should AI be regulated?,AI should be regulated carefully to prevent misuse while allowing innovation.,analytical
+4,abhi,2026-02-24,What is success?,Success is subjective and depends on personal values and long-term fulfillment.,reflective
+5,abhi,2026-02-25,Explain gravity to a child,Gravity is the force that pulls things toward the Earth.,simple
+6,abhi,2026-02-26,Is failure necessary for growth?,Failure exposes weaknesses and forces reflection which leads to improvement.,analytical
+7,abhi,2026-02-27,Explain artificial intelligence briefly,Artificial intelligence refers to machines that can simulate human thinking and learning processes.,focused
+8,abhi,2026-02-28,What causes stress?,Stress occurs when perceived demands exceed a person's ability to cope effectively.,neutral
+9,abhi,2026-03-01,Should money define success?,Money alone should not define success because fulfillment and impact matter more.,reflective
+10,abhi,2026-03-02,Why do people form habits?,Habits form through repetition when behaviors become automatic responses to specific cues.,analytical
+11,abhi,2026-03-03,What is leadership?,Leadership involves guiding others toward a shared goal through clarity and responsibility.,analytical
+12,abhi,2026-03-04,Why do people fear change?,People fear change because uncertainty challenges their sense of control and stability.,reflective
+13,abhi,2026-03-05,Explain photosynthesis simply,Photosynthesis is how plants use sunlight to make their own food.,simple
+14,abhi,2026-03-06,Is competition necessary?,Competition can drive innovation but excessive rivalry may reduce collaboration.,analytical
+15,abhi,2026-03-07,What defines intelligence?,Intelligence involves the ability to adapt learn and solve problems effectively.,reflective
+16,abhi,2026-03-08,Explain blockchain briefly,Blockchain is a distributed ledger that securely records transactions across many computers.,focused
+17,abhi,2026-03-09,Why do habits break?,Habits break when cues change or motivation declines.,neutral
+18,abhi,2026-03-10,Should success require sacrifice?,Success often demands sacrifice but balance is necessary for long term wellbeing.,analytical
+19,abhi,2026-03-11,Explain electricity to a child,Electricity is energy that makes lights shine and devices work.,simple
+20,abhi,2026-03-12,What causes overthinking?,Overthinking occurs when the mind repeatedly analyzes situations without resolution.,reflective
+21,abhi,2026-03-13,Is technology making us lazy?,Technology can reduce effort in tasks but it also enables productivity when used wisely.,analytical
+22,abhi,2026-03-14,Explain machine learning simply,Machine learning allows computers to learn patterns from data without explicit programming.,focused
+23,abhi,2026-03-15,Why do people seek validation?,People seek validation to feel accepted valued and secure in social environments.,reflective
+24,abhi,2026-03-16,What is creativity?,Creativity is the ability to combine ideas in novel and meaningful ways.,neutral
+25,abhi,2026-03-17,Explain climate change briefly,Climate change refers to long term shifts in global temperature patterns.,focused
+26,abhi,2026-03-18,Is failure better than regret?,Failure provides lessons while regret often stems from inaction.,analytical
+27,abhi,2026-03-19,Why do people avoid confrontation?,People avoid confrontation to prevent conflict and emotional discomfort.,reflective
+28,abhi,2026-03-20,Explain neurons simply,Neurons are cells that send messages in the brain using electrical signals.,simple
+29,abhi,2026-03-21,What is discipline?,Discipline is consistent action aligned with long term goals.,focused
+30,abhi,2026-03-22,Does money bring happiness?,Money provides comfort but meaning and relationships influence happiness more deeply.,reflective
+31,abhi,2026-03-23,Explain the internet briefly,The internet is a global network that connects computers and shares information.,simple
+32,abhi,2026-03-24,Why do people compare themselves?,Comparison arises from social evaluation and the desire to measure progress.,analytical
+33,abhi,2026-03-25,What is confidence?,Confidence is trust in one’s abilities based on preparation and experience.,focused
+34,abhi,2026-03-26,Explain memory simply,Memory is the brain’s way of storing and recalling information.,simple
+35,abhi,2026-03-27,Is risk necessary for growth?,Taking calculated risks often leads to learning and expansion beyond comfort zones.,analytical
+36,abhi,2026-03-28,Why do people procrastinate again?,Procrastination often reflects emotional avoidance rather than laziness.,reflective
+37,abhi,2026-03-29,Explain data science briefly,Data science combines statistics programming and domain knowledge to extract insights.,focused
+38,abhi,2026-03-30,What causes motivation loss?,Motivation declines when goals lack clarity meaning or visible progress.,reflective
+39,abhi,2026-03-31,Explain gravity again simply,Gravity is the force that pulls objects toward each other.,simple
+40,abhi,2026-04-01,What is resilience?,Resilience is the capacity to recover and adapt after adversity.,analytical
